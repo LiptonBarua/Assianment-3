@@ -14,3 +14,9 @@
     bottom: 0;
     opacity: 0.5;
 }
+
+/* ..........Gutters Section Part................. */
+
+.gutters img{
+    width: 100%;
+}
